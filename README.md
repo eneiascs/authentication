@@ -1,2 +1,2 @@
-# authentication
-AWS Cognito authentication
+# web-starter
+JS Web Starter
